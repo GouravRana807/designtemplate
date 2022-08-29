@@ -43,7 +43,7 @@ function App() {
 <div>
 <div className='flex flex-col justify-center items-center mb-12'>
   <div className='mb-16 mr-72'>
-    <img src="../—Pngtree—button plus icon_3566852.jpg" width={40} height={40} alt="" />
+    <img src="—Pngtree—button plus icon_3566852.jpg" width={40} height={40} alt="" />
   </div>
 
 
