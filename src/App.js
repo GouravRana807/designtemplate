@@ -26,7 +26,7 @@ function App() {
       <img src="Ellipse 1.png"  width={100} alt="" />
      </div>
      <div className=' flex  items-center justify-center '>
-      <img src="animation_640_l7bl38nc 1.png " width={300} alt="" />
+      <img src="/public/animation_640_l7bl38nc 1.png " width={300} alt="" />
      </div>
      <div className='flex  flex-col justify-center items-center mt-10'>
       <p className='font-bold text-xl text-blue-500'>Forget Password</p>
