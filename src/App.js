@@ -23,10 +23,10 @@ function App() {
   <div>
     <div className='flex flex-col  bg-sky-50 pr-32 pl-32 pb-8 ui4'>
      <div className='flex justify-start -ml-32'>
-      <img src="../Ellipse 1.png"  width={100} alt="" />
+      <img src="Ellipse 1.png"  width={100} alt="" />
      </div>
      <div className=' flex  items-center justify-center '>
-      <img src="../animation_640_l7bl38nc 1.png " width={300} alt="" />
+      <img src="animation_640_l7bl38nc 1.png " width={300} alt="" />
      </div>
      <div className='flex  flex-col justify-center items-center mt-10'>
       <p className='font-bold text-xl text-blue-500'>Forget Password</p>
