@@ -1,4 +1,52 @@
-.App {
+.border{
+  border: 2px solid rgb(148, 146, 153);
+  opacity: 0.6;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.bor{
+  border: 2px solid skyblue;
+}
+body{
+  background-color: rgb(236 249 249);
+}
+
+
+@media only screen and (max-width: 1060px) {
+ .ui{
+  flex-direction: column;
+ }
+ 
+ .ui2{
+  padding-left: 5.5rem;
+  padding-right: 5.5rem;
+ }
+}
+
+@media only screen and (max-width: 700px) {
+  .ui3{
+    margin-left:0%;
+  }
+  .ui4{
+    width: 90%;
+    margin-left: 3.9rem;
+  }
+}
+@media only screen and (max-width: 455px) {
+  .ui5{
+    width: 400px;
+    margin-right: -6rem;
+  }
+  .ui4{
+    width: 400px;
+    margin-right: -6rem;
+  }
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +83,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
